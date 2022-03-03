@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Java, Python and a lot of other things.
-- 💬 Ask me about Bash, SQL, Docker etc.
-- - 🔭 I’m currently working on some cool stuff!
+- 💬 Ask me about Bash, SQL, Docker, K8's, Argo/Terraform, AWS/GCP etc...
+- 🔭 I’m currently working on some cool WebDev/Fullstack stuff, watch this space!
