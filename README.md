@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java, Python and a lot of other things.
 - 💬 Ask me about Bash, SQL, Docker, K8's, Argo/Terraform, AWS/GCP etc...
 - 🔭 I’m currently working on some cool WebDev/Fullstack stuff, watch this space!
+- https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51?permalink_comment_id=4058807#gistcomment-4058807
