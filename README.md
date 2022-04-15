@@ -7,19 +7,14 @@
 
 ###### Developers: "Turning Coffee into Code since 1998"
 <br>
-
 🌱 I’m currently learning Java, Python, Ruby and web frameworks such as RoR, Django and Spring including CI/CD, DevOps, Automation and a lot of other things!
 <br>
-
 💬 Ask me about Bash scripting, SQL, Containerization + Orchestration, IaC, DaC, DEaC, AWS/GCP and more.
 <br>
-
 🔭 I’m currently working on some cool WebDev/Fullstack stuff using lightweight frameworks and Gitpods, watch this space!
 <br>
-
 🔑 GPG/PGP Public Key Fingerprint (2021-03-13): 
 <br>
-
 `A6A4 1A3B DE6C 5667 4D35  9242 AD6D C3BA 2DF4 E9A4`
 <br>
 
