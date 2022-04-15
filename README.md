@@ -15,7 +15,7 @@
 <br>
 🔑 GPG/PGP Public Key Fingerprint (2021-03-13): 
 <br>
-`A6A4 1A3B DE6C 5667 4D35  9242 AD6D C3BA 2DF4 E9A4`
+`A6A4 1A3B DE6C 5667 4D35  9242 AD6D C3BA 2DF4 E9A4` <- Currently invalid and should be regarded as so until Git/GPG stops fucking me around!
 <br>
 
 ⚡ Fun facts:
