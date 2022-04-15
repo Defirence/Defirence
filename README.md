@@ -25,3 +25,13 @@ JavaScript was created in 10 days and has nothing to do with Java itself.
 The original name for Java originally came from someone at Oracle(Sun Microsystems 1995) in the back of the seat row saying "Why not just call it Java?" 
 
 It has nothing to do with coffee but a colloquial term for certain types of coffee from Java, Indonesia and in general is just "java". "A cup of java for you?" ☕
+
+bullshit here
+
+test
+
+try fix shit
+
+fuck git configs and fuck gpg
+
+fuck bill gates and micro$hit
