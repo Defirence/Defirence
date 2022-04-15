@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub!
 
 ![Defirence's GitHub stats](https://github-readme-stats.vercel.app/api?username=defirence&show_icons=true&theme=dark)
-
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defirence&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- **Defirence/Defirence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -16,6 +15,9 @@
 
 - ⚡ Fun fact(s):
 
-- JavaScript was created in 10 days and has nothing to do with Java itself.
+JavaScript was created in 10 days and has nothing to do with Java itself.
 
-- The original name for Java originally came from someone at Oracle(Sun Microsystems 1995) in the back of the seat row saying "Why not just call it Java?" It has nothing to do with coffee but a colloquial term for certain types of coffee from Java, Indonesia and in general is just "java". "A cup of java for you?" ☕
+The original name for Java originally came from someone at Oracle(Sun Microsystems 1995) in the back of the seat row saying "Why not just call it Java?" 
+It has nothing to do with coffee but a colloquial term for certain types of coffee from Java, Indonesia and in general is just "java". "A cup of java for you?" ☕
+
+`Developers: "Turning Coffee into Code since 1998"`
