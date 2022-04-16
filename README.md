@@ -13,25 +13,4 @@
 <br>
 🔭 I’m currently working on some cool WebDev/Fullstack stuff using lightweight frameworks and Gitpods, watch this space!
 <br>
-🔑 GPG/PGP Public Key Fingerprint (2021-03-13): 
-<br>
-`A6A4 1A3B DE6C 5667 4D35  9242 AD6D C3BA 2DF4 E9A4` <- Currently invalid and should be regarded as so until Git/GPG stops fucking me around!
-<br>
-
-⚡ Fun facts:
-
-JavaScript was created in 10 days and has nothing to do with Java itself.
-
-The original name for Java originally came from someone at Oracle(Sun Microsystems 1995) in the back of the seat row saying "Why not just call it Java?" 
-
-It has nothing to do with coffee but a colloquial term for certain types of coffee from Java, Indonesia and in general is just "java". "A cup of java for you?" ☕
-
-bullshit here
-
-test
-
-try fix shit
-
-fuck git configs and fuck gpg
-
-fuck bill gates and micro$hit
+🔑 GPG/PGP Public Key Fingerprint: 
