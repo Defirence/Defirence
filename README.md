@@ -11,3 +11,6 @@
 🔭 I’m currently working on some cool WebDev/Fullstack stuff using lightweight frameworks and Gitpods, watch this space!
 
 🔑 GPG/PGP Public Key Fingerprint: 
+
+Old/Revoked: `GPG key ID: AD6DC3BA2DF4E9A4`
+New (18-04-2022): `GPG key ID: D58A8070EACB524B`
