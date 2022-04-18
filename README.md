@@ -30,6 +30,6 @@ GPG Key ID GitHub: BCD619443BDA19B4
 
 **GitNotes** are a small lightweight and personal way I like to track things, it's simply directories in a repo that contain text files which can then be referenced on a GitHub Page. 
 
-- P.S No rights/licence infringement are intended if this product name exists for something already, please raise an Issue/PR if this needs to be changed, 
+- P.S No rights/licence infringement are intended if this product name exists for something already, please raise an Issue/PR if this needs to be changed.
 
 Previous GPG key broke so commits flagged as unverified pre 18-04-2022 are still valid since I managed to creatively break GPG + Git key signing which you can find details on here: [Breaking GPG2 + Git Key Signing (WIP Article, broken link)](https://defirence.github.io/gitnotes/break-pgp-2022-04-17)
