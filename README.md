@@ -1,17 +1,33 @@
 ### Hi there 👋 Welcome to my GitHub!
+<br>
+🌱 I’m currently learning Python, Java and multiple other languages, including but not limited to web development with/without frameworks such as RubyOnRails, Django(Python), Spring(Java) including CI/CD, DevOps, Automation and a lot more.
+<br>
+💬 Ask me about:
 
-![Defirence's GitHub stats](https://github-readme-stats.vercel.app/api?username=defirence&show_icons=true&theme=dark)
+* Bash, Batch, Python scripting.
+* HTML(pre-5,5), CSS, nginx
+* nix (UNIX, FreeBSD, Linux)
+* Android (ROM Flashing, Unlocking OEM + flashing custom bootloaders, flashing custom recovery ROM, rooting, Xposed Framework + Modules etc...)
+* Oracle RLDB SQL + RedHat Enterprise Linux
+* Containerization (Docker, Kubernetes+), Orchestration (GKE, EKS, Rancher, Terraform)
+* Infrastructure as Code, DevOps as Code, Dev Environments as Code (Terraform/Opta, Gitpods)
+* AWS/GCP/Cloud + Bare metal hardware.
+* Anything that could pose a good challenge!
+<br>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defirence&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+🔭 I’m currently working on some cool WebDev/Fullstack, Python, Java and Ruby projects using lightweight frameworks and Gitpods, watch this space for future developments.
+<br>
 
-🌱 I’m currently learning Java, Python, Ruby and web frameworks such as RoR, Django and Spring including CI/CD, DevOps, Automation and a lot of other things!
+🔑 GPG Public Key (Personal GitHub + GitLab):
 
-💬 Ask me about Bash scripting, SQL, Containerization + Orchestration, IaC, DaC, DEaC, AWS/GCP and more.
+```
+pub rsa4096/BCD619443BDA19B4 2022-04-18 [expires: 2023-04-18]
 
-🔭 I’m currently working on some cool WebDev/Fullstack stuff using lightweight frameworks and Gitpods, watch this space!
+Key fingerprint = C02D 33B6 5AC5 B2EE 6AE3  AC5F BCD6 1944 3BDA 19B4 
 
-🔑 GPG/PGP Public Key Fingerprint: 
+GPG Key ID GitHub: BCD619443BDA19B4
+```
 
-Old/Revoked: `GPG key ID: AD6DC3BA2DF4E9A4`
+### **GitNotes**:
 
-New (18-04-2022): `GPG key ID: D58A8070EACB524B`
+Previous GPG key broke so commits flagged as unverified pre 18-04-2022 are still valid since I managed to creatively break GPG + Git key signing which you can find details on here: [Breaking GPG2 + Git Key Signing (WIP Article, broken link)](https://defirence.github.io/gitnotes/break-pgp-2022-04-17)
