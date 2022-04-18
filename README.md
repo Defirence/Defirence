@@ -39,3 +39,5 @@ GPG Key ID GitHub: BCD619443BDA19B4
 - P.S No rights/licence infringement are intended if this product name exists for something already, please raise an Issue/PR if this needs to be changed.
 
 Previous GPG key broke so commits flagged as unverified pre 18-04-2022 are still valid since I managed to creatively break GPG + Git key signing which you can find details on here: [Breaking GPG2 + Git Key Signing (WIP Article, broken link)](https://defirence.github.io/gitnotes/break-pgp-2022-04-17)
+
+1650295487 - I make use of https://github.com/iamadamdev/bypass-paywalls-chrome to bypass paywalls on Chrome/+Firefox.
