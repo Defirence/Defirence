@@ -10,9 +10,10 @@
 * Android (ROM Flashing, Unlocking OEM + flashing custom bootloaders, flashing custom recovery ROM, rooting, Xposed Framework + Modules etc...)
 * Oracle RLDB SQL + RedHat Enterprise Linux
 * Containerization (Docker, Kubernetes+), Orchestration (GKE, EKS, Rancher, Terraform)
-* Infrastructure as Code, DevOps as Code, Dev Environments as Code (Terraform/Opta, Gitpods)
+* DevOps, Infrastructure as Code, DevOps as Code, Dev Environments as Code (Terraform/Opta, Gitpods)
 * AWS/GCP/Cloud + Bare metal hardware.
-* Anything that could pose a good challenge!
+* Quality Assurance, Quality Testing, Quality by Design (QbD), Continous Quality Improvement (CQI) 
+* Anything that could pose a good challenge or make a good project!
 
 🔭 I’m currently working on some cool WebDev/Fullstack, Python, Java and Ruby projects using lightweight frameworks and Gitpods, watch this space for future developments.
 
@@ -40,4 +41,4 @@ GPG Key ID GitHub: BCD619443BDA19B4
 
 Previous GPG key broke so commits flagged as unverified pre 18-04-2022 are still valid since I managed to creatively break GPG + Git key signing which you can find details on here: [Breaking GPG2 + Git Key Signing (WIP Article, broken link)](https://defirence.github.io/gitnotes/break-pgp-2022-04-17)
 
-1650295487 - I make use of https://github.com/iamadamdev/bypass-paywalls-chrome to bypass paywalls on Chrome/+Firefox.
+1650295487 - I make use of https://github.com/iamadamdev/bypass-paywalls-chrome to bypass paywalls on Chrome.
