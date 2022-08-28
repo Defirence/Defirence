@@ -1,7 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-JetBrains OSS Program: Request ID = 21082022/9841148
-
 🌱 I’m currently learning Python, Java and multiple other languages, including but not limited to web development with/without frameworks such as RubyOnRails, Django(Python), Spring(Java) including CI/CD, DevOps, Automation and a lot more.
 
 💬 Ask me about:
