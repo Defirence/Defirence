@@ -1,21 +1,8 @@
-### Hi there 👋 Welcome to my GitHub!
+### Thanks to Valve's toxic administration staff and methods, I will now be dedicating my spare time to writing exploits, cheats and other various goodies and assorted fuckery! Hooray!!!
 
-🌱 I’m currently learning Python, Java and multiple other languages, including but not limited to web development with/without frameworks such as RubyOnRails, Django(Python), Spring(Java) including CI/CD, DevOps, Automation and a lot more.
+I'm fuck sick of being an honest player, and person in video games after enduring toxicity since I started playing online exposed to the less than best people.
 
-💬 Ask me about:
-
-* Bash, Batch, Python scripting.
-* HTML(pre-5,5), CSS, nginx
-* nix (UNIX, FreeBSD, Linux)
-* Android (ROM Flashing, Unlocking OEM + flashing custom bootloaders, flashing custom recovery ROM, rooting, Xposed Framework + Modules etc...)
-* Oracle RLDB SQL + RedHat Enterprise Linux
-* Containerization (Docker, Kubernetes+), Orchestration (GKE, EKS, Rancher, Terraform)
-* DevOps, Infrastructure as Code, DevOps as Code, Dev Environments as Code (Terraform/Opta, Gitpods)
-* AWS/GCP/Cloud + Bare metal hardware.
-* Quality Assurance, Quality Testing, Quality by Design (QbD), Continous Quality Improvement (CQI) 
-* Anything that could pose a good challenge or make a good project!
-
-🔭 I’m currently working on some cool WebDev/Fullstack, Python, Java and Ruby projects using lightweight frameworks and Gitpods, watch this space for future developments.
+Today, 23/04/2023 Valve decided to pull a 1984 on me for blocking people in casual and competitive games whose only goal is to insult, berate and tilt others. Upon getting a 24,48 hour and then another 24 hour ban, concluding with a 7 day ban for "numerous griefing reports" and a cooldown for "Unexpected Error" due to one little immature bitch deciding to get droves of people to report my profile. This is really automated, pathetic and fucking dystopian!!! Some of us have bad days but banning me from doing anything and putting this big red warning and window in my face highlighting your BULLSHIT because I reported these shitbags for being racist, phobic etc is NOT on. Fuck you Gabe Newell, Hidden Path Entertainment (you're all shit developers and money shills, including promotion of underage gambling) and Valve Software. Mark my fucking words, this was the last straw! Bring it the fuck on, I will single-handedly cripple your company. This is a moral war and I'm declaring it on you and your disgusting operation methods and ethics.
 
 🔑 GPG Public Key (Personal GitHub + GitLab):
 
@@ -32,13 +19,3 @@ GPG Key ID GitHub: BCD619443BDA19B4
 ![Defirence's GitHub stats](https://github-readme-stats.vercel.app/api?username=defirence&show_icons=true&theme=dark)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defirence&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-📒 **GitNotes**:
-
-**GitNotes** are a small lightweight and personal way I like to track things, it's simply directories in a repo that contain text files which can then be referenced on a GitHub Page. 
-
-- P.S No rights/licence infringement are intended if this product name exists for something already, please raise an Issue/PR if this needs to be changed.
-
-Previous GPG key broke so commits flagged as unverified pre 18-04-2022 are still valid since I managed to creatively break GPG + Git key signing which you can find details on here: [Breaking GPG2 + Git Key Signing (WIP Article, broken link)](https://defirence.github.io/gitnotes/break-pgp-2022-04-17)
-
-1650295487 - I make use of https://github.com/iamadamdev/bypass-paywalls-chrome to bypass paywalls on Chrome.
