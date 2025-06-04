@@ -1,6 +1,6 @@
-### Hi there 👋 Welcome to my GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-🌱 I’m currently learning Python, Java and multiple other languages, including but not limited to web development with/without frameworks such as RubyOnRails, Django(Python), Spring(Java) including CI/CD, DevOps, Automation and a lot more.
+🌱 I’m currently learning (and working professionally/personally with) Python, Java and multiple other languages, including but not limited to web development with/without frameworks such as RubyOnRails, Django(Python), Spring(Java) including CI/CD, DevOps, Automation and a lot more.
 
 💬 Ask me about:
 
@@ -19,7 +19,5 @@
 
 ![Defirence's GitHub stats](https://github-readme-stats.vercel.app/api?username=defirence&show_icons=true&theme=dark)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defirence&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=defirence&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
