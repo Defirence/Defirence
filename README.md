@@ -2,6 +2,25 @@
 
 🌱 I’m currently learning (and working professionally/personally with) Python, Java and multiple other languages, including but not limited to web development with/without frameworks such as RubyOnRails, Django(Python), Spring(Java) including CI/CD, DevOps, Automation and a lot more.
 
+Public GPG Key:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaHYpMhYJKwYBBAHaRw8BAQdAXdw9K0tC4J4xpLxwqvtuwYhSHfBL2vnboXFJ
+0Uvc/WG0R0FudGhvbnkgQnV0dCAoR2VuZXJhdGVkIDEyOjEwUE0gMjAyNS8wNy8x
+NSkgPGFudGhvbnkuYnV0dEBzYW5sYW0uY28uemE+iJkEExYKAEEWIQRbNuQ8wFIR
+rqj4Ij9IwEr9oNg93gUCaHYpMgIbAwUJAeEzgAULCQgHAgIiAgYVCgkICwIEFgID
+AQIeBwIXgAAKCRBIwEr9oNg93p9xAQDh0+x8bLbV6wfJJi51AWznANMq8Ev6qNAP
+/uNeSMqIkwD+ONjKVgSrioEla4RITZ2sPJ57AvJbOHx8lApG3TUVrAW4OARodiky
+EgorBgEEAZdVAQUBAQdAbBo6mpdnJL/kNqz/lcr9o4XFdDV66Tbuob55ds6/lH4D
+AQgHiH4EGBYKACYWIQRbNuQ8wFIRrqj4Ij9IwEr9oNg93gUCaHYpMgIbDAUJAeEz
+gAAKCRBIwEr9oNg93r0YAP4qbL5fJ61RKBOxr4GtJeyqu9KMZflU8GySjkBDryKE
+6AD8DFosQi3kGHhM3Yxnb+mpMIfLW7ev5wcdg7+R/EvAhQ4=
+=nQNh
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 💬 Ask me about:
 
 * Bash, Batch, Python scripting.
