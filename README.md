@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
+<div align="center">
+  
+`__ --- now playing: --- ___`
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=defirence&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 🌱 I’m currently learning (and working professionally/personally with) Python, Java and multiple other languages, including but not limited to web development with/without frameworks such as RubyOnRails, Django(Python), Spring(Java) including CI/CD, DevOps, Automation and a lot more.
 
 💬 Ask me about:
@@ -14,9 +22,3 @@
 * AWS/GCP/Cloud + Bare metal hardware.
 * Quality Assurance, Quality Testing, Quality by Design (QbD), Continous Quality Improvement (CQI) 
 * Anything that could pose a good challenge or make a good project!
-
-:octocat: GitHub Stats:
-
-![Defirence's GitHub stats](https://github-readme-stats.vercel.app/api?username=defirence&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=defirence&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=defirence&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
