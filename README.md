@@ -24,3 +24,4 @@ I love debating and researching fringe subjects, you can find my research papers
 * AWS/GCP/Cloud + Bare metal hardware, on-premises/cloud/hybrid.
 * Quality Assurance, Quality Testing, Quality by Design (QbD), Continous Quality Improvement (CQI).
 * Anything that could pose a good challenge or make a good project!
+* Cryptography :3
